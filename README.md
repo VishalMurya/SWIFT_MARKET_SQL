@@ -1,6 +1,6 @@
 # WELCOME
 
-![image]([https://static.betterretailing.com/wp-content/uploads/2022/04/11162251/IMG_2855-scaled.jpg](https://static.betterretailing.com/wp-content/uploads/2021/03/18175957/0_Iceland-is-launching-a-new-store-brand-called-Swift.jpg))
+![image](https://swiftmarketsolutions.com/wp-content/uploads/2023/08/New-York-Logo-new-colours-1B262C-2-.png)
 
 __This is MY SWIFT_MARKET PROJECT__
 
