@@ -1,5 +1,9 @@
 # WELCOME
+
+https://www.swiftmarketing.co.za/wp-content/uploads/2020/09/Swift-Marketing-Logo-2020-Square.png
+
 __This is MY SWIFT_MARKET PROJECT__
+
 # Thankyou
 <<<<<<< HEAD
 =======
