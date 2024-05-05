@@ -7,7 +7,7 @@
 
  * ### Instructions for Setup or Usage:
    ### Database Setup:
-   ##### Provide SQL scripts or instructions for creating the database schema and tables.
+   #### Provide SQL scripts or instructions for creating the database schema and tables.
 
 Data Import: If applicable, include steps for importing sample data to populate the database for testing purposes.
 
