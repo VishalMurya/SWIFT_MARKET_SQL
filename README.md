@@ -10,7 +10,7 @@
    * If applicable, include steps for importing sample data to populate the database for testing purposes.
    *  Offer examples of common SQL queries that users might find useful, such as querying product details, retrieving order history for 
    * a specific customer, or calculating total sales revenue within a certain timeframe.
-    Specify any dependencies required to run the SQL database, such as the SQL server software or a specific SQL dialect. Additionally, 
-    mention any required permissions or access credentials for interacting with the database.
+    Specify any dependencies required to run the SQL database, such as the SQL server software or a specific SQL-Connector. 
+    Additionally, mention any required permissions or access credentials for interacting with the database.
 
 # Thankyou
